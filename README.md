@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
   <img src="./header.svg" width="100%" alt="Sincopa header" />
 </div>
 
-<br>
+<br> -->
 
 <div align="center">
 
